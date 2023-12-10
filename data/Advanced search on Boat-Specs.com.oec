@@ -1,0 +1,4828 @@
+<?xml version="1.0"?>
+<ExtractTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>1</Id>
+      <ParentId>0</ParentId>
+      <Name>sailtype</Name>
+      <Header>sailtype</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>Sun Odyssey 490</SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+      <uid>to1gzb4nqnh</uid>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <Operations>
+        <Index>229</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>Sun Odyssey 490</Output>
+        <parameters>(?&lt;=Model\n)(.+?)(?=\n)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>2</Id>
+      <ParentId>0</ParentId>
+      <Name>draft_m</Name>
+      <Header>draft_m</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>622</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>2.24 </Output>
+        <parameters>(?&lt;=Draft\n.*\n)(.+?)(?=m)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>v4d3dkn8txq</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>2.24 </SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>3</Id>
+      <ParentId>0</ParentId>
+      <Name>Beam_m</Name>
+      <Header>Beam_m</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>174</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>4.49 </Output>
+        <parameters>(?&lt;=Beam(?:.*\n)*?)(.+?)(?=m)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>ueqkr5ojpfd</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>4.49 </SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>4</Id>
+      <ParentId>0</ParentId>
+      <Name>Light_displacement_kg</Name>
+      <Header>Light_displacement_kg</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>268</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>11290 </Output>
+        <parameters>(?&lt;=Light\sdisplacement(?:.*\n)*?)(.+?)(?=kg)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>5xx5qbw6jka</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>11290 </SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>5</Id>
+      <ParentId>0</ParentId>
+      <Name>engines_power_hp</Name>
+      <Header>engines_power_hp</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>34</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>57 </Output>
+        <parameters>(?&lt;=power(?:.*\n)*?)(.+?)(?=HP)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>01q03ubh9adc</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>57 </SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>6</Id>
+      <ParentId>0</ParentId>
+      <Name>Displacement_length_ratio</Name>
+      <Header>Displacement_length_ratio</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>302</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>138</Output>
+        <parameters>(?&lt;=DLR\sgreater\sthan\s300\sis\sindicative\sof\sa\sheavy\scruising\ssailboat.(?:.*\n)*?)(.+?)(?=\n)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>igvill2246l</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>138</SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>7</Id>
+      <ParentId>0</ParentId>
+      <Name>Ballast_ratio</Name>
+      <Header>Ballast_ratio</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>73</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>25 </Output>
+        <parameters>(?&lt;=Ballast\sratio(?:.*\n)*?)(.+?)(?=%)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>br8rmokgz6b</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>25 </SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>8</Id>
+      <ParentId>0</ParentId>
+      <Name>Fuel_tank_capacity_gal</Name>
+      <Header>Fuel_tank_capacity_gal</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>699</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>63.4 </Output>
+        <parameters>(?&lt;=Fuel\stank\scapacity(?:.*\n)*?)(.+?)(?=gal)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>p0ef0lr8q8</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>63.4 </SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+    <ExtractItem xsi:type="ExtractTextItem">
+      <Id>9</Id>
+      <ParentId>0</ParentId>
+      <Name>price</Name>
+      <Header>price</Header>
+      <UseRelativeXPath>false</UseRelativeXPath>
+      <RelativeXpath/>
+      <BackUpRelativeXPath/>
+      <BackUpIframeXPath/>
+      <BackUpAbsXPath/>
+      <AllowNull>true</AllowNull>
+      <AllowSkip>false</AllowSkip>
+      <AllowDefaultValue>false</AllowDefaultValue>
+      <AlertWhenNotFound>false</AlertWhenNotFound>
+      <AbsXpath>//div[@class="tablespec"]</AbsXpath>
+      <Operations>
+        <Index>284</Index>
+        <Name>正则匹配</Name>
+        <Input>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</Input>
+        <Output>About 254 000 </Output>
+        <parameters>(?&lt;=Standard\spublic\sprice(?:.*\n)*?)(.+?)(?=€)</parameters>
+        <parameters>false</parameters>
+        <FormatType>RegMatch</FormatType>
+        <regMatch>function(e,t,n){if(null===e||""===e||null===t||""===t)return"";if(n){var a=P.b.matches(e,t).Result,r="";return null!==a&amp;&amp;void 0!==a&amp;&amp;a.length&gt;0&amp;&amp;(r=a.join("\r\n")),r}var o="",i=P.b.match(e,t).Result;return null!==i&amp;&amp;void 0!==i&amp;&amp;(o=i),o}</regMatch>
+        <caculate>function(t){return e.apply(this,arguments)}</caculate>
+        <regexTra>function(e){var t={"\\\\":"\\\\","\\)":"\\)","\\(":"\\(","\\*":"\\*","\\.":"\\.","\\?":"\\?","\\+":"\\+","\\$":"\\$","\\^":"\\^","\\[":"\\[","\\]":"\\]","\\{":"\\{","\\}":"\\}","\\|":"\\|","\\/":"\\/"},n=e;for(var a in t){var r=new RegExp(a,"g");n=n.replace(r,t[a])}return n}</regexTra>
+      </Operations>
+      <IsIFrame>false</IsIFrame>
+      <IFrameAbsXPath/>
+      <CustomizeField/>
+      <ExtractType>ExtractText</ExtractType>
+      <FixedValue/>
+      <SourceUrl/>
+      <IsAppend>false</IsAppend>
+      <MatchAll>false</MatchAll>
+      <NullValue/>
+      <OCRType/>
+      <PageSourceReg/>
+      <type/>
+      <IsUniqueGroup>false</IsUniqueGroup>
+      <UseBackupPath>false</UseBackupPath>
+      <UseBackupIframePath>false</UseBackupIframePath>
+      <UseBackupRelativePath>false</UseBackupRelativePath>
+      <IsDownloadFile>false</IsDownloadFile>
+      <downloadFieldKey/>
+      <DownloadFileConfig>
+        <downloadFileRenameType>1</downloadFileRenameType>
+        <repeatValue>2</repeatValue>
+        <mutipleUrlConfig>
+          <isIncludeMutipleUrl>false</isIncludeMutipleUrl>
+          <urlSplitType>0</urlSplitType>
+        </mutipleUrlConfig>
+        <field/>
+      </DownloadFileConfig>
+      <belongTo>cym3hjzl8zd</belongTo>
+      <uid>leafvsloe6k</uid>
+      <MenuType>ShowXpathMenu</MenuType>
+      <SampleValue>About 254 000 </SampleValue>
+      <OriginalValue>Sun Odyssey 490's main features
+Model
+Sun Odyssey 490
+Version
+Deep draft
+Hull type
+Monohull
+Category
+Offshore cruising sailboat
+Sailboat builder
+Jeanneau
+Sailboat designer
+Philippe Briand &amp; Jeanneau Design Office
+Sailboat range
+Sun Odyssey
+Country
+France
+Construction
+GRP (glass reinforced polyester):
+- Hull: Sandwich balsa fiberglass polyester
+- Deck: Sandwich fiberglass polyester (injection molding process)
+First built hull
+2017
+Last built hull
+Still in production
+Award(s)
+2019: Cruising World - Boat of the Year: Overall Boat of the Year
+2019: Cruising World - Boat of the Year: Import Boat
+Appendages
+Keel : L-shaped keel (with bulb)
+Helm
+Twin helm wheels
+Rudder
+Twin spade rudders
+Unsinkable
+No
+Trailerable
+No
+EC design category
+ 
+i
+The CE design category indicates the ability to cope with certain weather conditions (the sailboat is designed for these conditions)
+
+A: Wind &lt; force 9, Waves &lt; 10m
+B: Wind &lt; force 8, Waves &lt; 8m
+C: Wind &lt; force 6, Waves &lt; 4m
+D: Wind &lt; force 4, Waves &lt; 0,5m
+A
+Standard public price ex. VAT (indicative only)
+About 254 000 € (2020)
+Sun Odyssey 490's main dimensions
+Overall length
+48’ 7”
+14.8 m
+Hull length
+45’ 11”
+14 m
+Waterline length
+43’ 5”
+13.24 m
+Beam (width)
+14’ 8”
+4.49 m
+Draft
+7’ 4”
+2.24 m
+Mast height from DWL
+65’ 4”
+19.9 m
+Light displacement (MLC)
+24890 lb
+11290 kg
+Ballast weight
+6327 lb
+2870 kg
+Ballast type
+Cast iron
+Sun Odyssey 490's rig and sails
+Upwind sail area
+1199 ft²
+111.4 m²
+Downwind sail area
+1618 ft²
+150.3 m²
+Mainsail area
+622 ft²
+57.8 m²
+Genoa area
+577 ft²
+53.6 m²
+Code 0 area
+996 ft²
+92.5 m²
+I
+ 
+i
+Fore triangle height (from mast foot to fore stay top attachment)
+54’ 6”
+16.6 m
+J
+ 
+i
+Fore triangle base (from mast foot to bottom of forestay)
+18’ 8”
+5.7 m
+P
+ 
+i
+Mainsail hoist measurement (from tack to head)
+55’ 1”
+16.8 m
+E
+ 
+i
+Mainsail foot measurement (from tack to clew)
+19’
+5.8 m
+Rigging type
+Sloop Marconi 7/8
+Mast configuration
+Deck stepped mast
+Rotating spars
+No
+Number of levels of spreaders
+2
+Spreaders angle
+Swept-back
+Spars construction
+Aluminum spars
+Standing rigging
+1x19 strand wire discontinuous
+Sun Odyssey 490's performances
+Upwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+
+Upwind: under 18 the ratio indicates a cruise oriented sailboat with limited performances especially in light wind, while over 25 it indicates a fast sailboat.
+238 ft²/T
+22.14 m²/T
+Downwind sail area to displacement
+ 
+i
+The ratio sail area to displacement is obtained by dividing the sail area by the boat's displaced volume to the power two-thirds.
+
+The ratio sail area to displacement can be used to compare the relative sail plan of different sailboats no matter what their size.
+322 ft²/T
+29.87 m²/T
+Displacement-length ratio (DLR)
+ 
+i
+The Displacement Length Ratio (DLR) is a figure that points out the boat's weight compared to its waterline length. The DLR is obtained by dividing the boat's displacement in tons by the cube of one one-hundredth of the waterline length (in feet).
+The DLR can be used to compare the relative mass of different sailboats no matter what their length:
+
+a DLR less than 180 is indicative of a really light sailboat (race boat made for planning), while a DLR greater than 300 is indicative of a heavy cruising sailboat.
+138
+Ballast ratio
+ 
+i
+The Ballast ratio is an indicator of stability; it is obtained by dividing the boat's displacement by the mass of the ballast. Since the stability depends also of the hull shapes and the position of the center of gravity, only the boats with similar ballast arrangements and hull shapes should be compared.
+
+The higher the ballast ratio is, the greater is the stability.
+25 %
+Critical hull speed
+ 
+i
+As a ship moves in the water, it creates standing waves that oppose its movement. This effect increases dramatically the resistance when the boat reaches a speed-length ratio (speed-length ratio is the ratio between the speed in knots and the square root of the waterline length in feet) of about 1.2 (corresponding to a Froude Number of 0.35) . This very sharp rise in resistance, between speed-length ratio of 1.2 to 1.5, is insurmountable for heavy sailboats and so becomes an apparent barrier. This leads to the concept of "hull speed".
+The hull speed is obtained by multiplying the square root of the waterline length (in feet) by 1.34.
+8.83 knots
+Sun Odyssey 490's auxiliary engine
+Engine(s)
+1 inboard engine
+Engine(s) power (min./max.)
+57 HP / 80 HP
+Fuel type
+Diesel
+Fuel tank capacity
+63.4 gal
+240 liters
+Sun Odyssey 490's accommodations and layout
+Cockpit
+Closing aft cockpit with opening system
+Cabin(s) (min./max.)
+2 / 5
+Berth(s) (min./max.)
+4 / 13
+Head(s) (min./max.)
+2 / 4
+Freshwater tank capacity
+169.1 gal
+640 liters
+Holding tank capacity
+34.3 gal
+130 liters
+Fridge/ice-box capacity
+50.2 gal
+190 liters
+Boiler capacity
+10.6 gal
+40 liters
+Maximum headroom
+6’ 6”
+1.97 m
+Galley headroom
+6’ 5”
+1.95 m
+Head headroom
+6’ 2”
+1.89 m
+Sun Odyssey 490's saloon
+Maximum headroom
+6’ 6”
+1.97 m
+Sun Odyssey 490's fore cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width (head/feet)
+4’ 7”
+1.4 m
+/
+2’ 7”
+0.79 m
+Sun Odyssey 490's aft cabin
+Maximum headroom
+6’ 2”
+1.88 m
+Berth length
+6’ 7”
+2 m
+Berth width
+5’ 2”
+1.6 m
+Have you spotted incorrect data?  You can report it in the forum or contact the webmaster</OriginalValue>
+    </ExtractItem>
+  </Items>
+</ExtractTemplate>
